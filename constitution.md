@@ -39,7 +39,11 @@
 
 > The Society's only disciplinary sanctions are to expel or to suspend a member whose actions are felt to be such as to bring the Society into disrepute, or to adversely affect the smooth running of the Society in a major way. Such expulsion or suspension can only be effected by the President. In the event of an expulsion, the excluded member is required to return all equipment, documents and finances belonging to the Society within 7 days. An appeal as to the process of exclusion, but not a further investigation into the facts, may be lodged with the President of the Downing College Amalgamation Club.
 
-12. Dissolution
+12. Member Motions
+    
+> Any member may propose a Motion for debate and vote by sending it in writing to the President or any other member of the Executive Committee. This Motion must be signed by the proposer and additionally seconded and signed by at least two other members of the Society. The Executive Committee must then hold a meeting open to all members within a week of receipt of this motion for the debating of and voting on this Motion. The Motion will be implemented if the members present at the meeting vote for it with at least a two-thirds majority. Quorum is 10 or more non-Executive Committee members.
+
+13. Dissolution
 
 > The Society may be dissolved at a General Meeting provided that at least twenty-one days written notice of the intention to dissolve the Society has been given to the members. At least two thirds of those present and voting at the General Meeting must vote in favour of the motion for Dissolution for it to be effective. Any motion for Dissolution of the Society shall provide that assets remaining after all liabilities have been met shall be transferred either to another Registered College Society, or to the Downing College Amalgamation Club.
 
