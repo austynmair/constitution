@@ -15,7 +15,7 @@
 
 4. Membership
 
-> Any junior member at Downing College is eligible for membership and becomes a member on registration. Any undergraduate studying Engineering will automatically become a member, unless they decline membership, notifying the president/committee by email or in writing. Any fellow of Downing College in Engineering will automatically be members of the Society. Membership is renewed annually and does not extend past membership of the college.
+> Any junior member at Downing College is eligible for membership and becomes a member on registration. Any undergraduate studying an Engineering subject will automatically become a member of the Society, unless they decline membership, notifying the president/committee by email or in writing. Any fellow of Downing College in Engineering will automatically become a member of the Society. Membership is renewed annually and does not extend past membership of the college.
 
 5. Executive Committee
 
