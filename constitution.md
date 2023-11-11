@@ -29,7 +29,7 @@
 
 7. Financial Matters
 
-> The Society will be funded entrance fees from events, and any annual contribution from the DCAC. The society will not have its own bank account.
+> The Society will be funded by entrance fees from events, annual contribution from the DCAC, and any external sponsorship. If any bank accounts are maintained, it is the responsibility of the Treasurer to ensure continuity of signatories. The Treasurer must also ensure that the Society's financial records are kept in good order and in accordance with DCAC guidelines. If the role of Treasurer has not been filled, the Society's financial matters are the responsibility of the President.
 
 10. Meetings
 
@@ -43,5 +43,5 @@
 
 > The Society may be dissolved at a General Meeting provided that at least twenty-one days written notice of the intention to dissolve the Society has been given to the members. At least two thirds of those present and voting at the General Meeting must vote in favour of the motion for Dissolution for it to be effective. Any motion for Dissolution of the Society shall provide that assets remaining after all liabilities have been met shall be transferred either to another Registered College Society, or to the Downing College Amalgamation Club.
 
-Annabel Pigdon\
-Austyn Mair Society President 2019/20
+Lucas Ng\
+Austyn Mair Society President 2023/24
