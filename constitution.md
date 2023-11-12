@@ -17,11 +17,13 @@
 
 > Any junior member at Downing College is eligible for membership and becomes a member on registration. Any undergraduate studying an Engineering subject will automatically become a member of the Society, unless they decline membership, notifying the president/committee by email or in writing. Any fellow of Downing College in Engineering will automatically become a member of the Society. Membership is renewed annually and does not extend past membership of the college.
 
-5. Executive Committee
+5. Committee
 
-> There shall be a committee annually consisting of at least a president. The position of secretary and treasurer may also be filled. Any member of the Society may stand for election to any post. Officers of the Society will not receive any salary from Society funds. Officers and co-opted officers shall not gain any direct benefit from their position, with the exception of free entry to events that the Society hosts that have an associated entrance fee.
+> There shall be a committee annually consisting of at least a President. The position of Secretary and Treasurer may also be filled. The roles of President, Treasurer and Secretary constitute the Executive Committee.
 
-> Any member who wishes to become part of the committee must express their interest to the outgoing president. The outgoing President will vote to select the next President. In a drawn vote, the outgoing President's preferred candidate will be the next President. The incoming President will select their own committee.
+> Any member of the Society may stand for election to any post. Officers of the Society will not receive any salary from Society funds. Officers and co-opted officers shall not gain any direct benefit from their position, with the exception of free entry to events that the Society hosts that have an associated entrance fee.
+
+> Any member who wishes to become part of the committee must express their interest to the outgoing president. The outgoing committee will vote to select the next President at a meeting for this purpose. In a drawn vote of the committee, the outgoing President's preferred drawn candidate will be the next President. The incoming President will select their own committee.
 
 6. College Guidance
 
